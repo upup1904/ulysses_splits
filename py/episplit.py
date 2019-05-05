@@ -17,7 +17,7 @@ with open(orgfile) as f :
     for line in f.readlines() :
         m = CHUNK_RE.search(line)
         if m :
-            capturefile = "./UPUP_{}.txt".format( m.group('chunkno'))
+            capturefile = "./UPUP_{}.md".format( m.group('chunkno'))
             outfile=open(capturefile, "w")
         else:
             if outfile is not None :
