@@ -4,7 +4,7 @@ Titles:
 
 1. The bounty of Ireland and a Cornucopia of Containers
 2. An exaltation of veg
-3. [UPUP #44] Irelands bounty: Ornaments of the arboreal world; polly bullocks; a hill and dale robber
+3. [UPUP #44] Ireland's bounty: Ornaments of the arboreal world; polly bullocks; a hill and dale robber
 
 Prompts:
 
@@ -21,7 +21,7 @@ Links:
 [Egoist 282-283](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/282/mode/1up)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p282.html)  
 [James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
-
+[Wikibooks](https://en.wikibooks.org/wiki/Annotations_to_James_Joyce's_Ulysses/Cyclops/282)  
 
 In Inisfail the fair there lies a land, the land of holy Michan. There
 rises a watchtower beheld of men afar. There sleep the mighty dead as
