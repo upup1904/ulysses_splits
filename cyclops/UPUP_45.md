@@ -1,18 +1,30 @@
 May 10 2019
-[page-by-page](http://ulyssespages.blogspot.com/2014/11/p282.html)
 
-Prompts: This is about as straightforward as Ulysses gets
+
+
+
+Titles:
+1. So we turned into Barney Kiernan’s
+2. Are we going to win?
+3. Gloryhole and foreign wars
+
+
 
 o) Is there any sign in these lines that the citizen will be monstrous  
-o) 
+o) Is "foreign wars" a random bit of nonsense by Hynes?  
+o) Who is the narrator talking to?  
  
 ------
 ------
 
-Gabler 12.118-150  
-[Egoist 283]  
-(https://archive.org/stream/ulysses00joyc_1?ref=ol#page/283/mode/1up)
+Gabler 12.118-150 ; Egoist p 283-284
+
+Links:
+
+[Egoist](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/283/mode/1up)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p283.html)  
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+
 
 ------
 ------
@@ -57,7 +69,7 @@ And says Joe, sticking his thumb in his pocket:
 
 —Three pints, Terry, says Joe. And how’s the old heart, citizen? says he.
 
-—Never better, a chara, says he. What Garry? Are we going to win? Eh?
+—Never better, *a chara*, says he. What Garry? Are we going to win? Eh?
 
 And with that he took the bloody old towser by the scruff of the neck and, by Jesus, he near throttled him.
 

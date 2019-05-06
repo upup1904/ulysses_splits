@@ -4,7 +4,7 @@ Titles:
 
 1. The bounty of Ireland and a Cornucopia of Containers
 2. An exaltation of veg
-3. Ornaments of the arboreal world; polly bullocks; hill and dale robber
+3. [UPUP #44] Irelands bounty: Ornaments of the arboreal world; polly bullocks; a hill and dale robber
 
 Prompts:
 
@@ -14,11 +14,13 @@ o) what's the point of the abrupt break in the narrative of the gus
 heading for Kiernan's, and why the short paragraph of his thoughts coming
 back in the middle of this section?
 
-Links:
 Gabler 12.68-117
-[Egoist 282-283](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/282/mode/1up)a
-[page-by-page](http://ulyssespages.blogspot.com/2014/11/p282.html)
-[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)
+
+Links:
+
+[Egoist 282-283](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/282/mode/1up)  
+[page-by-page](http://ulyssespages.blogspot.com/2014/11/p282.html)  
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
 
 
 In Inisfail the fair there lies a land, the land of holy Michan. There
