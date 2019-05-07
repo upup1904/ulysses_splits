@@ -1,4 +1,6 @@
-319-320
+[Egoist 319-320]
+Gabler 12.1507-1547
+
 
 —We know those canters, says he, preaching and picking your pocket. What about sanctimonious Cromwell and his ironsides that put the women and children of Drogheda to the sword with the bible text God is love pasted round the mouth of his cannon? The bible! Did you read that skit in the United Irishman today about that Zulu chief that’s visiting England?
 

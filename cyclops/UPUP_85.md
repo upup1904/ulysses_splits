@@ -1,4 +1,6 @@
 p 326-327
+Gabler 12.1751-1782
+
 —And so say all of us, says Jack.
 
 —Thousand a year, Lambert, says Crofton or Crawford.

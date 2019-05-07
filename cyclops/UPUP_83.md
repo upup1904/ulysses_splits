@@ -1,4 +1,5 @@
 322-324
+Gabler 12.1588-1675
 
 Sure enough the castle car drove up with Martin on it and Jack Power with him and a fellow named Crofter or Crofton, pensioner out of the collector general’s, an orangeman Blackburn does have on the registration and he drawing his pay or Crawford gallivanting around the country at the king’s expense.
 
@@ -70,7 +71,7 @@ So in comes Martin asking where was Bloom.
 
 —O, by God, says Ned, you should have seen Bloom before that son of his that died was born. I met him one day in the south city markets buying a tin of Neave’s food six weeks before the wife was delivered.
 
-—En ventre sa mère, says J. J.
+—*En ventre sa mère,* says J. J.
 
 —Do you call that a man? says the citizen.
 
