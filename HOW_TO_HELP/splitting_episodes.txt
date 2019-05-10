@@ -1,0 +1,58 @@
+On github website, you fork the repository
+(https://github.com/upup1904/ulysses_splits).
+
+Clone your forked copy onto your computer.
+
+Then, on your pc, in your cloned copy you made from you fork, make the a new
+diretory for the episode, and split files in
+ulysses_splits/epispode_name.
+
+Using any technology you want (more detail below), break the thing
+into .md files (can just do a few or all at once), then commit/push as
+usual.  
+
+Now you've got a repo on github which started life as a copy of mine,
+but your copy has changes I want, so you do a pull request, and that's
+done on the github website.  A 'pull request' means you're asking me
+to pull the changes in your copy into the upup1904 repository.
+
+The steps are:
+
+https://help.github.com/en/articles/fork-a-repo
+
+----- "using whatever technology you want" -------------
+
+I copy-pasted the whole gutenberg novel from into a text editor, and
+lost all the formatting.  During the course of writing to you, I saw
+there are lots of html-to-markdown options, you might want to look at
+that. 
+
+I trimmed the file down to just the Cyclops episode, then I went thru
+and put a token at the beginning of lines where I wanted the splits,
+and I wrote a script to break it into files for me.  I added the page numbers
+from the copy mentioned below as a went, I didn't think of any clever
+way to do it.  The just add/commit/push.  I'm still working thru getting
+the formatting right, and in the later splits I have some that are much
+too long, so the numbering will change a bit.
+
+For the numbers in the filenames, you can call it anything like,
+episode01.md, episode02.md, etc.  Once I have the numbering finished
+for Cyclops, it's easy to change their name to be like the ones I did
+already.
+
+For a guideline of how much to do per split -- approx 1 page per file,
+judging page by this copy:
+
+https://archive.org/stream/ulysses00joyc_1?ref=ol#page/330/mode/2up
+
+It's best to get it on some natural split.  Sometimes that's hard.
+
+I found it easiest to go thru the text file, make a mark in the text where
+I wanted to split it, then I wrote a script that created files from the
+marks.  
+
+The script is in the repository; if you have python installed it
+might be helpful, it's looking for marks like "* [UPUP #25]" and making
+them into files with the names you see in the repo.
+
+
