@@ -1,6 +1,7 @@
 May 14 2019
 
 
+
 prompts
 
 o) Is there any order in the list of the attributes of Frankeye the Big in
@@ -9,12 +10,11 @@ o) Do the list of heroes relate in any way to other things in Ulysses, or
 in Cyclops
 
 [Egoist 284-285](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/284/mode/1up)
-
-Gabler 12.151-205 Egoist 284-285
-
-[Egoist](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/284/mode/1up)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p284.html)  
 [James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+Gabler 12.151-205 Egoist 284-285  
+
 
 
 The figure seated on a large boulder at the foot of a round tower was

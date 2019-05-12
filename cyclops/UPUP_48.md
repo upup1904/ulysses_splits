@@ -1,5 +1,6 @@
-** pages 
-egoist 286-287
+
+[egoist 286-287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/285/mode/1up)
+
 ** text
 And lo, as they quaffed their cup of joy, a godlike messenger came
 swiftly in, radiant as the eye of heaven, a comely youth and behind

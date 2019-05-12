@@ -1,4 +1,11 @@
-Egoist 288
+[Egoist 288](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/288/mode/1up)
+
+
+Prompts
+
+o) why "bundle of wisps"
+o) what was Alf running after
+
 
 —What’s that bloody freemason doing, says the citizen, prowling up and down outside?
 

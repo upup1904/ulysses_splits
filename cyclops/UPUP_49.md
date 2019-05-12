@@ -1,4 +1,9 @@
-egoist 287
+[egoist 287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/287/mode/1up)
+
+Prompts
+
+o) what point does Joyce have bring up hanging?
+
 —When is long John going to hang that fellow in Mountjoy? says Joe.
 
 —Bergan, says Bob Doran, waking up. Is that Alf Bergan?

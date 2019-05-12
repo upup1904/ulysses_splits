@@ -1,4 +1,13 @@
+o) why "goodlooking sovereign"
+o) Bloom is repeatedly likened to cod; why; what does citizen mean?
+
 [Egoist 285-286](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/285/mode/1up)
+[page-by-page](http://ulyssespages.blogspot.com/2014/11/p285.html)  
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+Gabler 12.151-205 Egoist 284-285  
+
+
 
 So anyhow Terry brought the three pints Joe was standing and begob the sight nearly left my eyes when I saw him land out a quid. O, as true as I’m telling you. A goodlooking sovereign.
 
