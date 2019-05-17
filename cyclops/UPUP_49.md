@@ -1,4 +1,12 @@
+May 26, 2019
+
 [egoist 287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/287/mode/1up)
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[page-by-page](http://ulyssespages.blogspot.com/2014/11/p287.html)  
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+
 
 Prompts
 
