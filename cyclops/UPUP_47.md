@@ -2,9 +2,9 @@ May 18 2019
 
 Titles
 
-Cod's eyes, births and deaths, a click in the pit  
-
-Drinks all round  
+1. Cod's eyes, births and deaths, a click in the pit  
+2. Drinks all round
+3. Rumor of the prudent member
 
 ---
 
