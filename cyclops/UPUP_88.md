@@ -1,5 +1,17 @@
 [Egoist 328-330]
-Gabler 12.1851-1918
+Gabler 12.1853-1918
+
+
+Gob, the devil wouldn’t stop him till he got hold of the bloody tin anyhow and out with him and little Alf hanging on to his elbow and he shouting like a stuck pig, as good as any bloody play in the Queen’s royal theatre:
+
+—Where is he till I murder him?
+
+And Ned and J. J. paralysed with the laughing.
+
+—Bloody wars, says I, I’ll be in for the last gospel.
+
+But as luck would have it the jarvey got the nag’s head round the other way and off with him.
+
 
 —Hold on, citizen, says Joe. Stop!
 

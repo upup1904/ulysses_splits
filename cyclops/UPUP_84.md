@@ -1,17 +1,56 @@
-[Egoist ]
-Gabler 12.1676-1749
+[Egoist 323-324]
+Gabler 12.
 
-And at the sound of the sacring bell, headed by a crucifer with acolytes, thurifers, boatbearers, readers, ostiarii, deacons and subdeacons, the blessed company drew nigh of mitred abbots and priors and guardians and monks and friars: the monks of Benedict of Spoleto, Carthusians and Camaldolesi, Cistercians and Olivetans, Oratorians and Vallombrosans, and the friars of Augustine, Brigittines, Premonstratensians, Servi, Trinitarians, and the children of Peter Nolasco: and therewith from Carmel mount the children of Elijah prophet led by Albert bishop and by Teresa of Avila, calced and other: and friars, brown and grey, sons of poor Francis, capuchins, cordeliers, minimes and observants and the daughters of Clara: and the sons of Dominic, the friars preachers, and the sons of Vincent: and the monks of S. Wolstan: and Ignatius his children: and the confraternity of the christian brothers led by the reverend brother Edmund Ignatius Rice. And after came all saints and martyrs, virgins and confessors: S. Cyr and S. Isidore Arator and S. James the Less and S. Phocas of Sinope and S. Julian Hospitator and S. Felix de Cantalice and S. Simon Stylites and S. Stephen Protomartyr and S. John of God and S. Ferreol and S. Leugarde and S. Theodotus and S. Vulmar and S. Richard and S. Vincent de Paul and S. Martin of Todi and S. Martin of Tours and S. Alfred and S. Joseph and S. Denis and S. Cornelius and S. Leopold and S. Bernard and S. Terence and S. Edward and S. Owen Caniculus and S. Anonymous and S. Eponymous and S. Pseudonymous and S. Homonymous and S. Paronymous and S. Synonymous and S. Laurence O’Toole and S. James of Dingle and Compostella and S. Columcille and S. Columba and S. Celestine and S. Colman and S. Kevin and S. Brendan and S. Frigidian and S. Senan and S. Fachtna and S. Columbanus and S. Gall and S. Fursey and S. Fintan and S. Fiacre and S. John Nepomuc and S. Thomas Aquinas and S. Ives of Brittany and S. Michan and S. Herman-Joseph and the three patrons of holy youth S. Aloysius Gonzaga and S. Stanislaus Kostka and S. John Berchmans and the saints Gervasius, Servasius and Bonifacius and S. Bride and S. Kieran and S. Canice of Kilkenny and S. Jarlath of Tuam and S. Finbarr and S. Pappin of Ballymun and Brother Aloysius Pacificus and Brother Louis Bellicosus and the saints Rose of Lima and of Viterbo and S. Martha of Bethany and S. Mary of Egypt and S. Lucy and S. Brigid and S. Attracta and S. Dympna and S. Ita and S. Marion Calpensis and the Blessed Sister Teresa of the Child Jesus and S. Barbara and S. Scholastica and S. Ursula with eleven thousand virgins. And all came with nimbi and aureoles and gloriae, bearing palms and harps and swords and olive crowns, in robes whereon were woven the blessed symbols of their efficacies, inkhorns, arrows, loaves, cruses, fetters, axes, trees, bridges, babes in a bathtub, shells, wallets, shears, keys, dragons, lilies, buckshot, beards, hogs, lamps, bellows, beehives, soupladles, stars, snakes, anvils, boxes of vaseline, bells, crutches, forceps, stags’ horns, watertight boots, hawks, millstones, eyes on a dish, wax candles, aspergills, unicorns. And as they wended their way by Nelson’s Pillar, Henry street, Mary street, Capel street, Little Britain street chanting the introit in *Epiphania Domini* which beginneth *Surge, illuminare* and thereafter most sweetly the gradual *Omnes* which saith *de Saba venient* they did divers wonders such as casting out devils, raising the dead to life, multiplying fishes, healing the halt and the blind, discovering various articles which had been mislaid, interpreting and fulfilling the scriptures, blessing and prophesying. And last, beneath a canopy of cloth of gold came the reverend Father O’Flynn attended by Malachi and Patrick. And when the good fathers had reached the appointed place, the house of Bernard Kiernan and Co, limited, 8, 9 and 10 little Britain street, wholesale grocers, wine and brandy shippers, licensed for the sale of beer, wine and spirits for consumption on the premises, the celebrant blessed the house and censed the mullioned windows and the groynes and the vaults and the arrises and the capitals and the pediments and the cornices and the engrailed arches and the spires and the cupolas and sprinkled the lintels thereof with blessed water and prayed that God might bless that house as he had blessed the house of Abraham and Isaac and Jacob and make the angels of His light to inhabit therein. And entering he blessed the viands and the beverages and the company of all the blessed answered his prayers.
 
-—*Adiutorium nostrum in nomine Domini.*
+—Is he a jew or a gentile or a holy Roman or a swaddler or what the hell is he? says Ned. Or who is he? No offence, Crofton.
 
-—*Qui fecit cœlum et terram.*
+—Who is Junius? says J. J.
 
-—*Dominus vobiscum.*
+—We don’t want him, says Crofter the Orangeman or presbyterian.
 
-—*Et cum spiritu tuo.*
+—He’s a perverted jew, says Martin, from a place in Hungary and it was he drew up all the plans according to the Hungarian system. We know that in the castle.
 
-And he laid his hands upon that he blessed and gave thanks and he prayed and they all with him prayed:
+—Isn’t he a cousin of Bloom the dentist? says Jack Power.
 
-—*Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super creaturas istas: et praesta ut quisquis eis secundum legem et voluntatem Tuam cum gratiarum actione usus fuerit per invocationem sanctissimi nominis Tui corporis sanitatem et animæ tutelam Te auctore percipiat per Christum Dominum nostrum.*
+—Not at all, says Martin. Only namesakes. His name was Virag, the father’s name that poisoned himself. He changed it by deedpoll, the father did.
 
+—That’s the new Messiah for Ireland! says the citizen. Island of saints and sages!
+
+—Well, they’re still waiting for their redeemer, says Martin. For that matter so are we.
+
+—Yes, says J. J., and every male that’s born they think it may be their Messiah. And every jew is in a tall state of excitement, I believe, till he knows if he’s a father or a mother.
+
+—Expecting every moment will be his next, says Lenehan.
+
+—O, by God, says Ned, you should have seen Bloom before that son of his that died was born. I met him one day in the south city markets buying a tin of Neave’s food six weeks before the wife was delivered.
+
+—*En ventre sa mère,* says J. J.
+
+—Do you call that a man? says the citizen.
+
+—I wonder did he ever put it out of sight, says Joe.
+
+—Well, there were two children born anyhow, says Jack Power.
+
+—And who does he suspect? says the citizen.
+
+Gob, there’s many a true word spoken in jest. One of those mixed middlings he is. Lying up in the hotel Pisser was telling me once a month with headache like a totty with her courses. Do you know what I’m telling you? It’d be an act of God to take a hold of a fellow the like of that and throw him in the bloody sea. Justifiable homicide, so it would. Then sloping off with his five quid without putting up a pint of stuff like a man. Give us your blessing. Not as much as would blind your eye.
+
+
+—Charity to the neighbour, says Martin. But where is he? We can’t wait.
+
+—A wolf in sheep’s clothing, says the citizen. That’s what he is. Virag from Hungary! Ahasuerus I call him. Cursed by God.
+
+—Have you time for a brief libation, Martin? says Ned.
+
+—Only one, says Martin. We must be quick. J. J. and S.
+
+—You, Jack? Crofton? Three half ones, Terry.
+
+—Saint Patrick would want to land again at Ballykinlar and convert us, says the citizen, after allowing things like that to contaminate our shores.
+
+—Well, says Martin, rapping for his glass. God bless all here is my prayer.
+
+—Amen, says the citizen.
+
+—And I’m sure He will, says Joe.

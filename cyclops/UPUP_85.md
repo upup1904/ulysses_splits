@@ -1,35 +1,17 @@
-p 326-327
-Gabler 12.1751-1782
+p 324-326  (long but a big dessert of a paagraph)
+Gabler 12.
 
-—And so say all of us, says Jack.
+And at the sound of the sacring bell, headed by a crucifer with acolytes, thurifers, boatbearers, readers, ostiarii, deacons and subdeacons, the blessed company drew nigh of mitred abbots and priors and guardians and monks and friars: the monks of Benedict of Spoleto, Carthusians and Camaldolesi, Cistercians and Olivetans, Oratorians and Vallombrosans, and the friars of Augustine, Brigittines, Premonstratensians, Servi, Trinitarians, and the children of Peter Nolasco: and therewith from Carmel mount the children of Elijah prophet led by Albert bishop and by Teresa of Avila, calced and other: and friars, brown and grey, sons of poor Francis, capuchins, cordeliers, minimes and observants and the daughters of Clara: and the sons of Dominic, the friars preachers, and the sons of Vincent: and the monks of S. Wolstan: and Ignatius his children: and the confraternity of the christian brothers led by the reverend brother Edmund Ignatius Rice. And after came all saints and martyrs, virgins and confessors: S. Cyr and S. Isidore Arator and S. James the Less and S. Phocas of Sinope and S. Julian Hospitator and S. Felix de Cantalice and S. Simon Stylites and S. Stephen Protomartyr and S. John of God and S. Ferreol and S. Leugarde and S. Theodotus and S. Vulmar and S. Richard and S. Vincent de Paul and S. Martin of Todi and S. Martin of Tours and S. Alfred and S. Joseph and S. Denis and S. Cornelius and S. Leopold and S. Bernard and S. Terence and S. Edward and S. Owen Caniculus and S. Anonymous and S. Eponymous and S. Pseudonymous and S. Homonymous and S. Paronymous and S. Synonymous and S. Laurence O’Toole and S. James of Dingle and Compostella and S. Columcille and S. Columba and S. Celestine and S. Colman and S. Kevin and S. Brendan and S. Frigidian and S. Senan and S. Fachtna and S. Columbanus and S. Gall and S. Fursey and S. Fintan and S. Fiacre and S. John Nepomuc and S. Thomas Aquinas and S. Ives of Brittany and S. Michan and S. Herman-Joseph and the three patrons of holy youth S. Aloysius Gonzaga and S. Stanislaus Kostka and S. John Berchmans and the saints Gervasius, Servasius and Bonifacius and S. Bride and S. Kieran and S. Canice of Kilkenny and S. Jarlath of Tuam and S. Finbarr and S. Pappin of Ballymun and Brother Aloysius Pacificus and Brother Louis Bellicosus and the saints Rose of Lima and of Viterbo and S. Martha of Bethany and S. Mary of Egypt and S. Lucy and S. Brigid and S. Attracta and S. Dympna and S. Ita and S. Marion Calpensis and the Blessed Sister Teresa of the Child Jesus and S. Barbara and S. Scholastica and S. Ursula with eleven thousand virgins. And all came with nimbi and aureoles and gloriae, bearing palms and harps and swords and olive crowns, in robes whereon were woven the blessed symbols of their efficacies, inkhorns, arrows, loaves, cruses, fetters, axes, trees, bridges, babes in a bathtub, shells, wallets, shears, keys, dragons, lilies, buckshot, beards, hogs, lamps, bellows, beehives, soupladles, stars, snakes, anvils, boxes of vaseline, bells, crutches, forceps, stags’ horns, watertight boots, hawks, millstones, eyes on a dish, wax candles, aspergills, unicorns. And as they wended their way by Nelson’s Pillar, Henry street, Mary street, Capel street, Little Britain street chanting the introit in *Epiphania Domini* which beginneth *Surge, illuminare* and thereafter most sweetly the gradual *Omnes* which saith *de Saba venient* they did divers wonders such as casting out devils, raising the dead to life, multiplying fishes, healing the halt and the blind, discovering various articles which had been mislaid, interpreting and fulfilling the scriptures, blessing and prophesying. And last, beneath a canopy of cloth of gold came the reverend Father O’Flynn attended by Malachi and Patrick. And when the good fathers had reached the appointed place, the house of Bernard Kiernan and Co, limited, 8, 9 and 10 little Britain street, wholesale grocers, wine and brandy shippers, licensed for the sale of beer, wine and spirits for consumption on the premises, the celebrant blessed the house and censed the mullioned windows and the groynes and the vaults and the arrises and the capitals and the pediments and the cornices and the engrailed arches and the spires and the cupolas and sprinkled the lintels thereof with blessed water and prayed that God might bless that house as he had blessed the house of Abraham and Isaac and Jacob and make the angels of His light to inhabit therein. And entering he blessed the viands and the beverages and the company of all the blessed answered his prayers.
 
-—Thousand a year, Lambert, says Crofton or Crawford.
+—*Adiutorium nostrum in nomine Domini.*
 
-—Right, says Ned, taking up his John Jameson. And butter for fish.
+—*Qui fecit cœlum et terram.*
 
-I was just looking around to see who the happy thought would strike when be damned but in he comes again letting on to be in a hell of a hurry.
+—*Dominus vobiscum.*
 
-—I was just round at the courthouse, says he, looking for you. I hope I’m not...
+—*Et cum spiritu tuo.*
 
-—No, says Martin, we’re ready.
+And he laid his hands upon that he blessed and gave thanks and he prayed and they all with him prayed:
 
-Courthouse my eye and your pockets hanging down with gold and silver. Mean bloody scut. Stand us a drink itself. Devil a sweet fear! There’s a jew for you! All for number one. Cute as a shithouse rat. Hundred to five.
-
-—Don’t tell anyone, says the citizen.
-
-—Beg your pardon, says he.
-
-—Come on boys, says Martin, seeing it was looking blue. Come along now.
-
-—Don’t tell anyone, says the citizen, letting a bawl out of him. It’s a secret.
-
-And the bloody dog woke up and let a growl.
-
-—Bye bye all, says Martin.
-
-And he got them out as quick as he could, Jack Power and Crofton or whatever you call him and him in the middle of them letting on to be all at sea and up with them on the bloody jaunting car.
-
-—Off with you, says Martin to the jarvey.
-
-The milkwhite dolphin tossed his mane and, rising in the golden poop the helmsman spread the bellying sail upon the wind and stood off forward with all sail set, the spinnaker to larboard. A many comely nymphs drew nigh to starboard and to larboard and, clinging to the sides of the noble bark, they linked their shining forms as doth the cunning wheelwright when he fashions about the heart of his wheel the equidistant rays whereof each one is sister to another and he binds them all with an outer ring and giveth speed to the feet of men whenas they ride to a hosting or contend for the smile of ladies fair. Even so did they come and set them, those willing nymphs, the undying sisters. And they laughed, sporting in a circle of their foam: and the bark clave the waves.
+—*Deus, cuius verbo sanctificantur omnia, benedictionem tuam effunde super creaturas istas: et praesta ut quisquis eis secundum legem et voluntatem Tuam cum gratiarum actione usus fuerit per invocationem sanctissimi nominis Tui corporis sanitatem et animæ tutelam Te auctore percipiat per Christum Dominum nostrum.*
 

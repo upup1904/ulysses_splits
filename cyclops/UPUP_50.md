@@ -1,5 +1,8 @@
+May 30, 2019
+
 [Egoist 288](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/288/mode/1up)
 
+Next UPUP June 3
 
 Prompts
 

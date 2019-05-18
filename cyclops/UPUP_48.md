@@ -1,13 +1,16 @@
 May 22 2019
 
-[egoist 286-287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/285/mode/1up)
+[egoist 286-287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/286/mode/1up)  
 [Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p285.html)  
 [James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
 [Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
-[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)
+
+Next UPUP May 26
 
 ** text
+
 And lo, as they quaffed their cup of joy, a godlike messenger came
 swiftly in, radiant as the eye of heaven, a comely youth and behind
 him there passed an elder of noble gait and countenance, bearing the
@@ -23,7 +26,8 @@ Breen in his bathslippers with two bloody big books tucked under his
 oxter and the wife hotfoot after him, unfortunate wretched woman,
 trotting like a poodle. I thought Alf would split.
 
-—Look at him, says he. Breen. He’s traipsing all round Dublin with a postcard someone sent him with U. p: up on it to take a li...
+—Look at him, says he. Breen. He’s traipsing all round Dublin with a
+postcard someone sent him with U. p: up on it to take a li...
 
 And he doubled up.
 
@@ -33,11 +37,16 @@ And he doubled up.
 
 —O hell! says I.
 
-The bloody mongrel began to growl that’d put the fear of God in you seeing something was up but the citizen gave him a kick in the ribs.
+The bloody mongrel began to growl that’d put the fear of God in you
+seeing something was up but the citizen gave him a kick in the ribs.
 
 —*Bi i dho husht*, says he.
 
 —Who? says Joe.
 
-—Breen, says Alf. He was in John Henry Menton’s and then he went round to Collis and Ward’s and then Tom Rochford met him and sent him round to the subsheriff’s for a lark. O God, I’ve a pain laughing. U. p: up. The long fellow gave him an eye as good as a process and now the bloody old lunatic is gone round to Green street to look for a G man.
+—Breen, says Alf. He was in John Henry Menton’s and then he went round
+to Collis and Ward’s and then Tom Rochford met him and sent him round
+to the subsheriff’s for a lark. O God, I’ve a pain laughing. U. p:
+up. The long fellow gave him an eye as good as a process and now the
+bloody old lunatic is gone round to Green street to look for a G man.
 

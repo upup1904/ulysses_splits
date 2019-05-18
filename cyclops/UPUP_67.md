@@ -1,5 +1,9 @@
 egoist 304-306
 
+
+http://www.jjon.org/joyce-s-words/pet-lamb
+
+
 —Talking about violent exercise, says Alf, were you at that Keogh-Bennett match?
 
 —No, says Joe.
