@@ -1,5 +1,17 @@
 May 22 2019
 
+--
+
+Titles:
+
+An Eye as Good as a Process
+
+What's U. p:?
+
+Traipsing pantaloon
+
+--
+
 [egoist 286-287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/286/mode/1up)  
 [Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p285.html)  
