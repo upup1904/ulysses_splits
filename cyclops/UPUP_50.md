@@ -7,7 +7,7 @@ Next UPUP June 3
 Prompts
 
 o) why "bundle of wisps"
-o) what was Alf running after
+o) what was Alf running after?
 
 
 —What’s that bloody freemason doing, says the citizen, prowling up and down outside?

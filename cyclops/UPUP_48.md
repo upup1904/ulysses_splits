@@ -14,9 +14,12 @@ Traipsing pantaloon
 
 [egoist 286-287](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/286/mode/1up)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p286.html)  
+
+-- (full episode)
 [James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
 [Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
 [Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)
+[Ulysses Guide](http://www.ulyssesguide.com/new-page)
 
 Next UPUP May 26
 

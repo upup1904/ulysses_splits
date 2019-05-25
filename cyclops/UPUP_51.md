@@ -2,6 +2,15 @@ June 3
 
 egoist 289
 
+[egoist 289](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/289/mode/1up)  
+[page-by-page](http://ulyssespages.blogspot.com/2014/11/p289.html)  
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)
+[Volupcy, jjonline](http://www.jjon.org/joyce-s-words/volupcy)
+
+
+
 Next UPUP June 7
 
 In the darkness spirit hands were felt to flutter and when prayer by
@@ -42,7 +51,8 @@ Cullen’s to be soled only as the heels were still good. He stated that
 this had greatly perturbed his peace of mind in the other region and
 earnestly requested that his desire should be made known.
 
-Assurances were given that the matter would be attended to and it was intimated that this had given satisfaction.
+Assurances were given that the matter would be attended to and it was
+intimated that this had given satisfaction.
 
 He is gone from mortal haunts: O’Dignam, sun of our morning. Fleet was
 his foot on the bracken: Patrick of the beamy brow. Wail, Banba, with
