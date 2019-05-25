@@ -1,21 +1,47 @@
-UPUP is a split of Joyce's Ulysses originally made use in the reddit
-jamesjoyce sub.  It can be used for anything; the work is CC0, meaning
-you can use it/change it without attribution.
+# About
 
-Each "chunk" is about a page long, and there is an .md file or each.
-(.md is for markdown, which is a convenient-to-type format supported
-by many web sites, such as a reddit and github).
+## About UPUP
 
-The beginning of each file has links for various sites.  If you want
-to add something, go ahead and submit it as a pull request.
+UPUP is a group read-thru of Ulysses in years-long cycle. It runs
+on Reddit.  The split out episodes are (very roughly) 1 page of the
+egoist edition.  (Egoist is convenient because it's open to all
+at openlibrary.org)
 
-UPUP #1 started where Frank Delaney's podcasts left off.  One of the
-big "help-wanted" items for the UPUP project is splitting up the parts
-from before #1 (middle of wandering rocks) and making UPUP #0, UPUP -1,
-etc.
+## About Reddit
 
-If you are typing markdown, the most subtle thing to know is that to
-get single-spaced lines, e.g., lines of poetry, you need to put two or
-more spaces as the end of a line.
+Reddit is just a so-so platform, technically, for this kind of thing.
+The main drawback it has is that posts more than a couple days old are
+buried by its UI, so if you comment on a non-current post, its
+unlikely anyone except the one person to whom you respond will see it.
 
+Culturally, it doesn't seem the ownership has any commitment to
+openness.  Reddit has a history of sexist/cyberstalker culture that
+keeps a lot of people away from the platform.  But I don't know a more
+practical alternative to reddit.  It would be iteresting if someone
+would explore a reddit-email gateway.
 
+## Web resources
+
+### Open Library
+
+### jstor
+
+Jstor allows "civilians" access to thousands of academic articles, 6 per month.
+
+### Egoist Copy
+
+https://archive.org/stream/ulysses00joyc_1#page/n23/mode/2up -- Page numbers commonly cited when not using Gabler line numbers
+
+### Gutenberg Copy
+
+Plain text/epub/html/kindle   http://www.gutenberg.org/ebooks/4300
+
+### Skeat
+
+The etymologist Stephen  Dedalus read.  1888 version
+
+https://archive.org/details/etymologicaldict00skeauoft/page/n6
+
+### Green's Slang
+
+Not Joyce specific but useful:  https://greensdictofslang.com/
