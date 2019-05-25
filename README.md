@@ -10,7 +10,7 @@ novel is discussed on a periodic schedule.
 
 ## Contributing
 
-See [HOW TO HELP](https://github.com/upup1904/ulysses_splits/tree/master/HOW_TO_HELP/tasks.md)
+See [HOW TO HELP](https://github.com/upup1904/ulysses_splits/tree/master/HOW_TO_HELP/help_wanted.md)
 
 ## Why markdown?
 
