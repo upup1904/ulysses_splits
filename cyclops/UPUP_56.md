@@ -1,4 +1,4 @@
-293-295
+Egoist 293-295 * Gabler 12.519-591
 
 —The memory of the dead, says the citizen taking up his pintglass and glaring at Bloom.
 

@@ -1,4 +1,4 @@
-Egoist 290-291
+Egoist 290-291 * Gabler 12.407-453
 
 Old Garryowen started growling again at Bloom that was skeezing round the door.
 

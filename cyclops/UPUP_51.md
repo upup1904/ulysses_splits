@@ -1,6 +1,6 @@
 June 3
 
-egoist 289
+egoist 289 * Gabler 12.338-376
 
 [egoist 289](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/289/mode/1up)  
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p289.html)  

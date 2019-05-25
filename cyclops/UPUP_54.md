@@ -1,4 +1,5 @@
-Egoist 291-292
+Egoist 291-292 * Gabler 12.446-478
+
 In the dark land they bide, the vengeful knights of the razor. Their deadly coil they grasp: yea, and therein they lead to Erebus whatsoever wight hath done a deed of blood for I will on nowise suffer it even so saith the Lord.
 
 So they started talking about capital punishment and of course Bloom comes out with the why and the wherefore and all the codology of the business and the old dog smelling him all the time I’m told those jewies does have a sort of a queer odour coming off them for dogs about I don’t know what all deterrent effect and so forth and so on.

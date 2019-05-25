@@ -1,4 +1,5 @@
-egoist 290
+egoist 290 * Gabler 12.378-406
+
 —There he is again, says the citizen, staring out.
 
 —Who? says I.

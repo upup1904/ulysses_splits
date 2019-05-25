@@ -1,4 +1,4 @@
-Egoist 292-293
+Egoist 292-293 * 12.479-518
 
 So of course the citizen was only waiting for the wink of the word and he starts gassing out of him about the invincibles and the old guard and the men of sixtyseven and who fears to speak of ninetyeight and Joe with him about all the fellows that were hanged, drawn and transported for the cause by drumhead courtmartial and a new Ireland and new this, that and the other. Talking about new Ireland he ought to go and get a new dog so he ought. Mangy ravenous brute sniffing and sneezing all round the place and scratching his scabs. And round he goes to Bob Doran that was standing Alf a half one sucking up for what he could get. So of course Bob Doran starts doing the bloody fool with him:
 

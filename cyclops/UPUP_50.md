@@ -1,6 +1,8 @@
 May 30, 2019
 
-[Egoist 288](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/288/mode/1up)
+
+
+[Egoist 288](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/288/mode/1up) * Gabler 12.300-337
 
 Next UPUP June 3
 
