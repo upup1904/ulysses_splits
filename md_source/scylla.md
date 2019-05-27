@@ -1,3 +1,11 @@
+This markdown is taken from Gutenberg.org
+http://www.gutenberg.org/files/4300/4300-h/4300-h.htm#chap10
+Downloaded May 24 2018, convered by online html->md at cloudconvert.com
+Made available on github with CC0 licence
+https://creativecommons.org/share-your-work/public-domain/cc0/
+
+
+
 Urbane, to comfort them, the quaker librarian purred:
 
 —And we have, have we not, those priceless pages of *Wilhelm Meister*. A
