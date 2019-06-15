@@ -1,4 +1,18 @@
-Egoist 292-293 * 12.479-518
+[Egoist 292-293](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/292/mode/2up) * Gabler 12.479-518
+
+Links
+
+[Page-by-page](http://ulyssespages.blogspot.com/2014/11/p292.html)
+
+----- (full episode)
+
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[Ulysses Guide](http://www.ulyssesguide.com/new-page)  
+
+---
+
 
 So of course the citizen was only waiting for the wink of the word and he starts gassing out of him about the invincibles and the old guard and the men of sixtyseven and who fears to speak of ninetyeight and Joe with him about all the fellows that were hanged, drawn and transported for the cause by drumhead courtmartial and a new Ireland and new this, that and the other. Talking about new Ireland he ought to go and get a new dog so he ought. Mangy ravenous brute sniffing and sneezing all round the place and scratching his scabs. And round he goes to Bob Doran that was standing Alf a half one sucking up for what he could get. So of course Bob Doran starts doing the bloody fool with him:
 

@@ -1,4 +1,15 @@
-Egoist 293-295 * Gabler 12.519-591
+[Egoist 293-295](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/293/mode/2up) * Gabler 12.519-591
+
+[Page-by-page](http://ulyssespages.blogspot.com/2014/11/p293.html)
+
+----- (full episode)
+
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[Ulysses Guide](http://www.ulyssesguide.com/new-page)  
+
+
 
 —The memory of the dead, says the citizen taking up his pintglass and glaring at Bloom.
 

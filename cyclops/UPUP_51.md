@@ -8,7 +8,7 @@ egoist 289 * Gabler 12.338-376
 [Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
 [Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)
 [Volupcy, jjonline](http://www.jjon.org/joyce-s-words/volupcy)
-
+[Their Pineal Glands Aglow: Theosophical Physiology in ‘Ulysses.’](https://www.jstor.org/stable/20789626)
 
 
 Next UPUP June 7
