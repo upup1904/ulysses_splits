@@ -1,3 +1,5 @@
+June 23
+
 [Egoist 293-295](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/293/mode/2up) * Gabler 12.519-591
 
 [Page-by-page](http://ulyssespages.blogspot.com/2014/11/p293.html)

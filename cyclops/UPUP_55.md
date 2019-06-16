@@ -1,3 +1,5 @@
+June 19
+
 [Egoist 292-293](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/292/mode/2up) * Gabler 12.479-518
 
 Links

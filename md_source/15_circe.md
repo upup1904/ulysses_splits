@@ -211,6 +211,8 @@ THE BELLS: Haltyaltyaltyall.
 
 BLOOM: *(Halts erect, stung by a spasm.)* Ow!
 
+<!-- 15:185;435:10 -->
+
 *(He looks round, darts forward suddenly. Through rising fog a dragon
 sandstrewer, travelling at caution, slews heavily down upon him, its
 huge red headlight winking, its trolley hissing on the wire. The

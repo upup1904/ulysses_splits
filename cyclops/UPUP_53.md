@@ -1,3 +1,5 @@
+June 11, 2019
+
 Egoist 290-291 * Gabler 12.407-445
 
 Old Garryowen started growling again at Bloom that was skeezing round the door.

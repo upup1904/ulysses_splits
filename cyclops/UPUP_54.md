@@ -1,3 +1,5 @@
+June 15 2019
+
 Egoist 291-292 * Gabler 12.446-478
 
 In the dark land they bide, the vengeful knights of the razor. Their deadly coil they grasp: yea, and therein they lead to Erebus whatsoever wight hath done a deed of blood for I will on nowise suffer it even so saith the Lord.
