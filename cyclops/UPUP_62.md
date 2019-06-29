@@ -1,4 +1,5 @@
-egoist 300-301
+egoist 300-301 Gabler 12.780-799
+
 https://archive.org/stream/ulysses00joyc_1?ref=ol#page/300/mode/1up
 
 So Bob Doran comes lurching around asking Bloom to tell Mrs Dignam he was sorry for her trouble and he was very sorry about the funeral and to tell her that he said and everyone who knew him said that there was never a truer, a finer than poor little Willy that’s dead to tell her. Choking with bloody foolery. And shaking Bloom’s hand doing the tragic to tell her that. Shake hands, brother. You’re a rogue and I’m another.

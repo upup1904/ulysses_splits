@@ -1,5 +1,6 @@
 
-egoist 303-304
+
+egoist 303-304 * Gabler: 889-938
 
 So off they started about Irish sports and shoneen games the like of lawn tennis and about hurley and putting the stone and racy of the soil and building up a nation once again and all to that. And of course Bloom had to have his say too about if a fellow had a rower’s heart violent exercise was bad. I declare to my antimacassar if you took up a straw from the bloody floor and if you said to Bloom: Look at, Bloom. Do you see that straw? That’s a straw. Declare to my aunt he’d talk about it for an hour so he would and talk steady.
 

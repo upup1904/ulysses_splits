@@ -1,4 +1,6 @@
-egoist 304-306
+egoist 304-306 - gabler 12.939-988
+
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
 
 
 http://www.jjon.org/joyce-s-words/pet-lamb

@@ -1,4 +1,4 @@
-299-300
+299-300 * Gabler: 12.748-779
 
 So he told Terry to bring some water for the dog and, gob, you could hear him lapping it up a mile off. And Joe asked him would he have another.
 
