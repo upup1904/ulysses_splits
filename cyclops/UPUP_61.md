@@ -1,4 +1,19 @@
-299-300 * Gabler: 12.748-779
+July 13, 2019
+
+Titles:
+The wife comes out top dog
+
+
+[Egoist 299-300](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/299/) * Gabler: 12.748-779
+
+Episode links:
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[Ulysses Guide](http://www.ulyssesguide.com/new-page)  
+[Modernism Lab](https://modernism.coursepress.yale.edu/the-cyclops/)  
+[Wikibooks](https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Cyclops)  
+
 
 So he told Terry to bring some water for the dog and, gob, you could hear him lapping it up a mile off. And Joe asked him would he have another.
 

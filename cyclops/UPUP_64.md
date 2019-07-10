@@ -1,4 +1,18 @@
-301-302
+July 25, 2019
+
+
+Titles:
+A soft hand under a hen.
+[Egoist 301-302](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/301/mode/1up) * Gabler 12.823-845
+
+[James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
+[Marked-up](http://www.columbia.edu/~fms5/ulw12.htm)  
+[Genius](https://genius.com/James-joyce-ulysses-chap-12-cyclops-annotated)  
+[Ulysses Guide](http://www.ulyssesguide.com/new-page)  
+[Modernism Lab](https://modernism.coursepress.yale.edu/the-cyclops/)  
+[Wikibooks](https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Cyclops)  
+
+
 
 —Who is the long fellow running for the mayoralty, Alf? says Joe.
 
