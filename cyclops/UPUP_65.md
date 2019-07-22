@@ -21,7 +21,7 @@ In Session
 
 —That’s too bad, says Bloom. I wanted particularly. Perhaps only Mr Field is going. I couldn’t phone. No. You’re sure?
 
-—Nannan’s going too, says Joe. The league told him to ask a question tomorrow about the commissioner of police forbidding Irish games in the park. What do you think of that, citizen? The Sluagh na h-Eireann.
+—Nannan’s going too, says Joe. The league told him to ask a question tomorrow about the commissioner of police forbidding Irish games in the park. What do you think of that, citizen? *The Sluagh na h-Eireann.*
 
 Mr Cowe Conacre (Multifarnham. Nat.): Arising out of the question of my honourable friend, the member for Shillelagh, may I ask the right honourable gentleman whether the government has issued orders that these animals shall be slaughtered though no medical evidence is forthcoming as to their pathological condition?
 
@@ -45,7 +45,7 @@ The speaker: Order! Order!
 
 —There’s the man, says Joe, that made the Gaelic sports revival. There he is sitting there. The man that got away James Stephens. The champion of all Ireland at putting the sixteen pound shot. What was your best throw, citizen?
 
-—Na bacleis, says the citizen, letting on to be modest. There was a time I was as good as the next fellow anyhow.
+—*Na bacleis*, says the citizen, letting on to be modest. There was a time I was as good as the next fellow anyhow.
 
 —Put it there, citizen, says Joe. You were and a bloody sight better.
 

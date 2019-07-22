@@ -2,7 +2,8 @@ July 25, 2019
 
 
 Titles:
-A soft hand under a hen.
+A soft hand under a hen
+
 [Egoist 301-302](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/301/mode/1up) * Gabler 12.823-845
 
 [James Joyce Digital Archive](http://www.jjda.ie/main/JJDA/U/ulex/n/lexn.htm)  
