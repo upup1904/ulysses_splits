@@ -1,4 +1,8 @@
-Egoist 307
+Aug 12 2019
+
+Egoist 307 * Gabler 1022-1059
+
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
 
 Now what were those two at? J. J. getting him off the grand jury list and the other give him a leg over the stile. With his name in Stubbs’s. Playing cards, hobnobbing with flash toffs with a swank glass in their eye, adrinking fizz and he half smothered in writs and garnishee orders. Pawning his gold watch in Cummins of Francis street where no-one would know him in the private office when I was there with Pisser releasing his boots out of the pop. What’s your name, sir? Dunne, says he. Ay, and done says I. Gob, he’ll come home by weeping cross one of those days, I’m thinking.
 

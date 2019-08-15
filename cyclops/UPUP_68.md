@@ -1,5 +1,9 @@
+Aug 9 2019
 
-egoist 306
+egoist 306 * Gabler 988-1021
+
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
+
 
 —He knows which side his bread is buttered, says Alf. I hear he’s running a concert tour now up in the north.
 
@@ -9,9 +13,7 @@ egoist 306
 
 —Mrs B. is the bright particular star, isn’t she? says Joe.
 
-—My wife? says Bloom. She’s singing, yes. I think it will be a success too.
-
-He’s an excellent man to organise. Excellent.
+—My wife? says Bloom. She’s singing, yes. I think it will be a success too. He’s an excellent man to organise. Excellent.
 
 Hoho begob says I to myself says I. That explains the milk in the cocoanut and absence of hair on the animal’s chest. Blazes doing the tootle on the flute. Concert tour. Dirty Dan the dodger’s son off Island bridge that sold the same horses twice over to the government to fight the Boers. Old Whatwhat. I called about the poor and water rate, Mr Boylan. You what? The water rate, Mr Boylan. You whatwhat? That’s the bucko that’ll organise her, take my tip. ’Twixt me and you Caddareesh.
 
