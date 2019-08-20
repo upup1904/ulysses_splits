@@ -1,4 +1,16 @@
-egoist 310-311
+Titles: 
+Bringing in Bugs
+Bugs, Saxons, Corned Beef
+
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
+
+
+[Egoist 310-311](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/310/mode/2up) * Gabler 1141-1177
+
+[page-by-page](http://ulyssespages.blogspot.com/2014/11/p310.html)
+
+- - - - - - - - -
+
 —Those are nice things, says the citizen, coming over here to Ireland filling the country with bugs.
 
 So Bloom lets on he heard nothing and he starts talking with Joe, telling him he needn’t trouble about that little matter till the first but if he would just say a word to Mr Crawford. And so Joe swore high and holy by this and by that he’d do the devil and all.
