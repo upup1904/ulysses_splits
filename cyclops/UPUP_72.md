@@ -29,13 +29,13 @@ So Bloom lets on he heard nothing and he starts talking with Joe, telling him he
 
 —The strangers, says the citizen. Our own fault. We let them come in. We brought them in. The adulteress and her paramour brought the Saxon robbers here.
 
-—Decree nisi, says J. J.
+—*Decree nisi*, says J. J.
 
 And Bloom letting on to be awfully deeply interested in nothing, a spider’s web in the corner behind the barrel, and the citizen scowling after him and the old dog at his feet looking up to know who to bite and when.
 
 —A dishonoured wife, says the citizen, that’s what’s the cause of all our misfortunes.
 
-—And here she is, says Alf, that was giggling over the Police Gazette with Terry on the counter, in all her warpaint.
+—And here she is, says Alf, that was giggling over the *Police Gazette* with Terry on the counter, in all her warpaint.
 
 —Give us a squint at her, says I.
 

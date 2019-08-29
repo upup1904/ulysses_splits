@@ -1,4 +1,13 @@
-311-312
+Titles:
+No literature worthy of the name
+Conspuez les Anglais!
+
+[Egoist 311-312](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/311/mode/1up) , Gabler 12.1177-1234
+
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
+
+
+- - - - -
 
 So anyhow in came John Wyse Nolan and Lenehan with him with a face on him as long as a late breakfast.
 
@@ -6,7 +15,7 @@ So anyhow in came John Wyse Nolan and Lenehan with him with a face on him as lon
 
 O’Nolan, clad in shining armour, low bending made obeisance to the puissant and high and mighty chief of all Erin and did him to wit of that which had befallen, how that the grave elders of the most obedient city, second of the realm, had met them in the tholsel, and there, after due prayers to the gods who dwell in ether supernal, had taken solemn counsel whereby they might, if so be it might be, bring once more into honour among mortal men the winged speech of the seadivided Gael.
 
-—It’s on the march, says the citizen. To hell with the bloody brutal Sassenachs and their patois.
+—It’s on the march, says the citizen. To hell with the bloody brutal Sassenachs and their *patois*.
 
 So J. J. puts in a word, doing the toff about one story was good till you heard another and blinking facts and the Nelson policy, putting your blind eye to the telescope and drawing up a bill of attainder to impeach a nation, and Bloom trying to back him up moderation and botheration and their colonies and their civilisation.
 
@@ -14,7 +23,7 @@ So J. J. puts in a word, doing the toff about one story was good till you heard 
 
 —The European family, says J. J....
 
-—They’re not European, says the citizen. I was in Europe with Kevin Egan of Paris. You wouldn’t see a trace of them or their language anywhere in Europe except in a cabinet d’aisance.
+—They’re not European, says the citizen. I was in Europe with Kevin Egan of Paris. You wouldn’t see a trace of them or their language anywhere in Europe except in a *cabinet d’aisance*.
 
 And says John Wyse:
 
@@ -22,9 +31,9 @@ And says John Wyse:
 
 And says Lenehan that knows a bit of the lingo:
 
-—Conspuez les Anglais! Perfide Albion!
+—*Conspuez les Anglais! Perfide Albion!*
 
-He said and then lifted he in his rude great brawny strengthy hands the medher of dark strong foamy ale and, uttering his tribal slogan Lamh Dearg Abu, he drank to the undoing of his foes, a race of mighty valorous heroes, rulers of the waves, who sit on thrones of alabaster silent as the deathless gods.
+He said and then lifted he in his rude great brawny strengthy hands the medher of dark strong foamy ale and, uttering his tribal slogan *Lamh Dearg Abu*, he drank to the undoing of his foes, a race of mighty valorous heroes, rulers of the waves, who sit on thrones of alabaster silent as the deathless gods.
 
 —What’s up with you, says I to Lenehan. You look like a fellow that had lost a bob and found a tanner.
 
