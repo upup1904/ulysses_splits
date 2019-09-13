@@ -1,4 +1,5 @@
-315-316
+315-316 * Gabler 1354-1398
+
 They believe in rod, the scourger almighty, creator of hell upon earth, and in Jacky Tar, the son of a gun, who was conceived of unholy boast, born of the fighting navy, suffered under rump and dozen, was scarified, flayed and curried, yelled like bloody hell, the third day he arose again from the bed, steered into haven, sitteth on his beamend till further orders whence he shall come to drudge for a living and be paid.
 
 —But, says Bloom, isn’t discipline the same everywhere. I mean wouldn’t it be the same here if you put force against force?

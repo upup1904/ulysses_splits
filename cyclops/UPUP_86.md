@@ -1,7 +1,5 @@
 [Egoist 326-327]
-Gabler 12.1783-1813
-
-
+Gabler 12.1751-1791
 
 
 —And so say all of us, says Jack.

@@ -1,5 +1,5 @@
 [Egoist 323-324]
-Gabler 12.
+Gabler 12.1631-1675
 
 
 —Is he a jew or a gentile or a holy Roman or a swaddler or what the hell is he? says Ned. Or who is he? No offence, Crofton.

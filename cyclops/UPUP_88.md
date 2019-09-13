@@ -1,5 +1,9 @@
-[Egoist 328-330]
-Gabler 12.1853-1918
+Titles: Shot off a shovel
+The Catastrophe
+All your born puff
+
+[Egoist 328-330](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/328/mode/1up)
+Gabler 12.1843-1918 [end]
 
 
 Gob, the devil wouldn’t stop him till he got hold of the bloody tin anyhow and out with him and little Alf hanging on to his elbow and he shouting like a stuck pig, as good as any bloody play in the Queen’s royal theatre:
