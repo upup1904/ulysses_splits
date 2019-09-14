@@ -1,5 +1,5 @@
 [Egoist 327-328]
-Gabler 12.1814-1842
+Gabler 12.1796-1842
 
 
 And all the ragamuffins and sluts of the nation round the door and Martin telling the jarvey to drive ahead and the citizen bawling and Alf and Joe at him to whisht and he on his high horse about the jews and the loafers calling for a speech and Jack Power trying to get him to sit down on the car and hold his bloody jaw and a loafer with a patch over his eye starts singing *If the man in the moon was a jew, jew, jew* and a slut shouts out of her:

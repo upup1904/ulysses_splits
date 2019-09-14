@@ -1,5 +1,5 @@
 [Egoist 326-327]
-Gabler 12.1751-1791
+Gabler 12.1751-1795
 
 
 —And so say all of us, says Jack.
