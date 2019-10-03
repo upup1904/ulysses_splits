@@ -1,4 +1,5 @@
-[upup #76]
+Titles
+
 
 Egoist 314-315 * Gabler 1311-1353
 
@@ -12,11 +13,11 @@ And he took the last swig out of the pint. Moya. All wind and piss like a tanyar
 
 —Yes, sir, says Terry. Small whisky and bottle of Allsop. Right, sir.
 
-Hanging over the bloody paper with Alf looking for spicy bits instead of attending to the general public. Picture of a butting match, trying to crack their bloody skulls, one chap going for the other with his head down like a bull at a gate. And another one: Black Beast Burned in Omaha, Ga. A lot of Deadwood Dicks in slouch hats and they firing at a Sambo strung up in a tree with his tongue out and a bonfire under him. Gob, they ought to drown him in the sea after and electrocute and crucify him to make sure of their job.
+Hanging over the bloody paper with Alf looking for spicy bits instead of attending to the general public. Picture of a butting match, trying to crack their bloody skulls, one chap going for the other with his head down like a bull at a gate. And another one: *Black Beast Burned in Omaha, Ga.* A lot of Deadwood Dicks in slouch hats and they firing at a Sambo strung up in a tree with his tongue out and a bonfire under him. Gob, they ought to drown him in the sea after and electrocute and crucify him to make sure of their job.
 
 —But what about the fighting navy, says Ned, that keeps our foes at bay?
 
-—I’ll tell you what about it, says the citizen. Hell upon earth it is. Read the revelations that’s going on in the papers about flogging on the training ships at Portsmouth. A fellow writes that calls himself Disgusted One.
+—I’ll tell you what about it, says the citizen. Hell upon earth it is. Read the revelations that’s going on in the papers about flogging on the training ships at Portsmouth. A fellow writes that calls himself *Disgusted One.*
 
 So he starts telling us about corporal punishment and about the crew of tars and officers and rearadmirals drawn up in cocked hats and the parson with his protestant bible to witness punishment and a young lad brought out, howling for his ma, and they tie him down on the buttend of a gun.
 
