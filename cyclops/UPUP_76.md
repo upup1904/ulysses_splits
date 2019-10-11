@@ -1,7 +1,9 @@
 Titles
 
+Lynching, flogging, and unfortunate yahoos
 
-Egoist 314-315 * Gabler 1311-1353
+
+[Egoist 314-315](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/314/mode/2up) * Gabler 12.1311-1353
 
 And he took the last swig out of the pint. Moya. All wind and piss like a tanyard cat. Cows in Connacht have long horns. As much as his bloody life is worth to go down and address his tall talk to the assembled multitude in Shanagolden where he daren’t show his nose with the Molly Maguires looking for him to let daylight through him for grabbing the holding of an evicted tenant.
 

@@ -1,4 +1,4 @@
-317-318 * Gabler 1399-1437
+[Egoist p 317-318](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/317/mode/1up) * Gabler 12.1399-1437
 
 —Well, says J. J. We have Edward the peacemaker now.
 
@@ -50,5 +50,6 @@ The citizen said nothing only cleared the spit out of his gullet and, gob, he sp
 
 —After you with the push, Joe, says he, taking out his handkerchief to swab himself dry.
 
-—Here you are, citizen, says Joe. Take that in your right hand and repeat after me the following words.
+—Here you are, citizen, says Joe. Take that in your right hand and repeat after 
+me the following words.
 
