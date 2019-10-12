@@ -5,17 +5,18 @@ import re
 import random # for choosing titles
 
 # Overview: get the last episode, upup (filename), and last reddit id
-# from a
-# configuration file.  
+# from a configuration file.  Post the next upup to r/jamesjoyce
+
 # From github, get all the upups in the episode
-# if the next one is in the episode, get the text
-# Else, get th next episode, and get the text for the first
-# filename there.
-# Get the list of titles from Github
-# form a last episode link from last reddit id
-# Post to reddit.
+# if the next upup is in the episode, get its text and title
+# Else, get the next episode, and get the text for the first
+# upup and title from  there.
+# form a last episode link from last reddit id (planned) and add to text
+# Post to reddit using current text and title
 # capture the new reddit id (planned)
-# save reddit, episode, and upup to configuration file
+# save episode, upup, and reddit id (planned) to configuration file
+
+# reddit functions adapted from https://github.com/SkullTech/reddit-auto-poster.py
 
 
 from inspect import currentframe, getframeinfo
@@ -29,9 +30,10 @@ repo_base = "https://api.github.com/repos/upup1904/ulysses_splits/"
 dotfile = "/home/pa/.upup_last_post"
 personal_token = 'see below'
 
-# personal_token used for req_headers, below.  NOrmally you don't
-# need it but if you do you have to make your own.
-
+# personal_token used for req_headers, below.  Only needed for testing/
+# dev; if you do need it you have to make your own and uncomment in
+# headers below.  If you don't have personal token, reddit throttles
+# how frequently you post.
 
 
 episode_dict = {
@@ -54,22 +56,19 @@ episode_dict = {
 }
 
 
-
 ####### GITHUB Functions #####################3
 
 
 req_headers = {
-#   'Authorization' : "token " + personal_token,
+#    'Authorization' : "token " + personal_token,
     'Accept' : 'application/vnd.github.v3.raw'
 }
 
-
-# personal_token is for github.  normally you can just leave "auth" as an empty dictionary.  However,
-# to run more that 60 queries an hour, you have to have a github
-# personal token, and you'd have to clone the repo to one you could
-# grant access to.  Script needs it to be the Accept: header to
-# get postable text
-
+# Headers:
+# personal_token is for github.  
+# To run more that 60 queries an hour, you have to have a github
+# personal token.   The Accept: header is needed for the use-case; 
+# the markup version is "raw", without the Accept:  you get rendered text.
 
 def get_tree_for_episode(episode) :
     if episode not in episode_dict.keys() :
@@ -164,6 +163,7 @@ def get_next_from_dict(d, prev, get_first=False) :
 
 ##### Reddit - PRAW functions ##############
 
+## adapted from https://github.com/SkullTech/reddit-auto-poster.py
 class Golem:
     def __init__(self, config):
         self.reddit = praw.Reddit(client_id=config['CONFIG']['CLIENT_ID'], 
@@ -176,14 +176,9 @@ class Golem:
             submission = self.reddit.subreddit(subreddit).submit(title=title, selftext=text)
             return submission
 
-
 def reddit_submit(golem, sr, post):
     sub = golem.post(sr, post['Title'], text=post['Text'])
     return sub
-
-
-
-
 
 #### Scriptus Beginnus ##############
 
@@ -218,6 +213,13 @@ with open(dotfile, 'r+') as dotfile:
         upup_to_persist = next_upup
 
     reddit_body = get_text_from_blob(upup_dict[upup_to_persist])
+    reddit_body = reddit_body + """
+
+-------
+
+^Posted ^with ^https://github.com/upup1904/ulysses_splits/blob/master/utils/poster.py
+"""
+
     reddit_title = get_title_for_episode(episode_tree, upup_to_persist)
     print(reddit_title)
 
@@ -233,7 +235,7 @@ with open(dotfile, 'r+') as dotfile:
     try: 
         golem = Golem(config)
         post = {"Title" : reddit_title, "Text": reddit_body}
-        reddit_result = reddit_submit(golem, "test", post)
+        reddit_result = reddit_submit(golem, "jamesjoyce", post)
     except Exception as exp:
         print('[*] Exception: {}'.format(exp))
     else:
