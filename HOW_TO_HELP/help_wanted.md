@@ -1,38 +1,44 @@
 # Help wanted
 
-## Github -- CC0
 
-Any work you do that is checked into ulysses_splits github archive is CC0 -- you grant people
-the right to reuse, adapt, change your work wihout acknowledgement or attribution.
+First, be aware any work you do that is checked into ulysses_splits
+github archive is CC0 -- you grant people the right to reuse, adapt,
+change your work wihout acknowledgement or attribution.
 
-## Bibliography
+## Non programmer
 
-Want to make a CC0 bibliography; soliciting ideas.  Ideas solicted
 
-1.  Post in reddit
-2.  @upup1904 in twitter
-3.  By gusearthsapho at a popular mail host run by a subsidiary of Alphabet
-4.  Pull request in github
+1. Mark up .md files for first episodes (thru lestrygonians) with
+where they break in Delaney's podcast
 
-## Accumulators
+1. Make lists of vocabulary at the UPUP-file level
 
-Periodic post gathering input -- e.g. Themes in Ulysses; links pertinent to sections; etymologies; pictures of dublin sites
+1. Get citations for slang, irish, latin at the UPUP file level.  (Gifford
+includes many definitions but they typically give no source and
+often are debatable; a digital format doesn't have be so concise.)
 
-## Splitting chapters
+1. Get links to scholarly resources, e.g. from Jstor, and the
+UPUP files they correspond to.
 
-This is a bear, esp. Circe and Penelope.  Markdown files will be in https://github.com/upup1904/ulysses_splits/tree/master/md_source
+1. Get the keywords for page numbers in the 1888 Skeat Etymology
+(extend this file: https://github.com/upup1904/ulysses_splits/blob/master/skeat/skeat_marks.md)
 
-Coordinate with me via reddit (/u/Earthsophagus) twitter @upup1904 or github if you want to work on these, don't want to have
-two people doing same thhings
+1. On split out chunks, want to get the gabler line numbers for episodes
+thru Scylla.
 
-## Gabler line numbers
 
-On split out chunks want to get the gabler line numbers
+## programmer
 
-## links
+1. Utility to add a link to multiple UPUP_links, e.g.
 
-Add links to upup episodes (blog posts, etc) -- via pull request, or suggest on reddit
+add link ./linkfile.txt 12.1 12.5-8 14.14-15
 
-## add to Archive.org (wayback)
+would add any links in the named file to the UPUP_*links.txt file for
+UPUPs 12.1, 12.5, 12.6, etc.
 
-When you see a link that is interesting, add it to way-back web.  There are browser extensions to do this.
+2. For links to  non-password protected content, detect if they are
+up-to-date in archive.org; detect dead-links and provide archive.org link
+when available.
+
+
+

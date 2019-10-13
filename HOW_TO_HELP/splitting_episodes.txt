@@ -1,5 +1,15 @@
+Coordinate with Coordinate with /u/Earthsophagus, @upup1904 first, so
+we don't have multiples.  We mot need someone to split up the episodes Delaney
+did, thru lestrygonians.  Eumeaus, Penelope and Circe all need doing also,
+Penelope and Circe will be challenging.
+
+-------
+
 On github website, you fork the repository
 (https://github.com/upup1904/ulysses_splits).
+
+
+
 
 Clone your forked copy onto your computer.
 
@@ -36,9 +46,7 @@ the formatting right, and in the later splits I have some that are much
 too long, so the numbering will change a bit.
 
 For the numbers in the filenames, you can call it anything like,
-episode01.md, episode02.md, etc.  Once I have the numbering finished
-for Cyclops, it's easy to change their name to be like the ones I did
-already.
+UPUP_12_01.md, UPUP_12_02.md, etc. (for Cyclops 1 and Cyclops 2).
 
 For a guideline of how much to do per split -- approx 1 page per file,
 judging page by this copy:
