@@ -1,7 +1,3 @@
-Titles: 
-Europe has its eyes on you
-Can't see the forest
-
 [Egoist 313-314](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/313/mode/1up) * Gabler 1258-1310
 
 

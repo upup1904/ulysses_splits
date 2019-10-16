@@ -1,7 +1,3 @@
-Titles:
-The Glory that was Eblana
-Yellowjohn owes reparation
-
 [Egoist 312-313](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/312/mode/2up) * Gabler 12.1235-1258
 
 And J. J. and the citizen arguing about law and history with Bloom sticking in an odd word.

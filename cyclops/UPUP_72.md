@@ -1,13 +1,7 @@
-Titles: 
-Bringing in Bugs
-Bugs, Saxons, Corned Beef
-
-[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
-
-
 [Egoist 310-311](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/310/mode/2up) * Gabler 1141-1177
 
 [page-by-page](http://ulyssespages.blogspot.com/2014/11/p310.html)
+[Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
 
 - - - - - - - - -
 

@@ -1,7 +1,3 @@
-Titles:
-No literature worthy of the name
-Conspuez les Anglais!
-
 [Egoist 311-312](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/311/mode/1up) , Gabler 12.1177-1234
 
 [Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)

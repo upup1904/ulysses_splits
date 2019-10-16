@@ -35,7 +35,6 @@
 
 Gob, there’s many a true word spoken in jest. One of those mixed middlings he is. Lying up in the hotel Pisser was telling me once a month with headache like a totty with her courses. Do you know what I’m telling you? It’d be an act of God to take a hold of a fellow the like of that and throw him in the bloody sea. Justifiable homicide, so it would. Then sloping off with his five quid without putting up a pint of stuff like a man. Give us your blessing. Not as much as would blind your eye.
 
-
 —Charity to the neighbour, says Martin. But where is he? We can’t wait.
 
 —A wolf in sheep’s clothing, says the citizen. That’s what he is. Virag from Hungary! Ahasuerus I call him. Cursed by God.

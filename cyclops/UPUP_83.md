@@ -1,8 +1,6 @@
 [Egoist 322-323](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/322/mode/2up) Gabler 12.1588-1630
 
-vocabulary: swaddler: any kind of Protestant.  Amusing history at [Green's Online](https://greensdictofslang.com/entry/7pwr7ka)
-palfrey: a saddle-horse, esp a lady's horse, per Skeat
-Collector General -- Tax office, apparantly still in use in Ireland
+
 
 Sure enough the castle car drove up with Martin on it and Jack Power
 with him and a fellow named Crofter or Crofton, pensioner out of the
