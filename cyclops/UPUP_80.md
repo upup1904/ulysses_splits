@@ -1,4 +1,4 @@
-318-319 Gabler: 1465-1506
+[Egoist 318-319](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/318/mode/2up) Gabler: 1465-1506
 
 —Show us over the drink, says I. Which is which?
 

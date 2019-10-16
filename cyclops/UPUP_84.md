@@ -1,5 +1,4 @@
-[Egoist 323-324]
-Gabler 12.1631-1675
+[Egoist 323-324] (https://archive.org/stream/ulysses00joyc_1?ref=ol#page/323/mode/1up) Gabler 12.1631-1675
 
 
 —Is he a jew or a gentile or a holy Roman or a swaddler or what the hell is he? says Ned. Or who is he? No offence, Crofton.

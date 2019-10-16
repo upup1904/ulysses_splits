@@ -1,5 +1,4 @@
-322-323
-Gabler 12.1588-1630
+[Egoist 322-323](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/322/mode/2up) Gabler 12.1588-1630
 
 vocabulary: swaddler: any kind of Protestant.  Amusing history at [Green's Online](https://greensdictofslang.com/entry/7pwr7ka)
 palfrey: a saddle-horse, esp a lady's horse, per Skeat

@@ -1,5 +1,4 @@
-[Egoist 326-327]
-Gabler 12.1751-1795
+[Egoist 326-327](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/326/mode/2up) Gabler 12.1751-1795
 
 
 —And so say all of us, says Jack.

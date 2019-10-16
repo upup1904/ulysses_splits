@@ -1,4 +1,4 @@
-[Egoist 319-320] Gabler 12.1507-1547
+[Egoist 319-320](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/319/mode/1up) Gabler 12.1507-1547
 
 
 —We know those canters, says he, preaching and picking your
