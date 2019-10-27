@@ -1,8 +1,3 @@
-Titles:
-A most scandalous thing
-The Sixteenth Day of the Month of the Oxeneyed Goddess
-Dismissed!
-
 [Egoist 308-310](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/308/mode/2up) * Gabler 12.1094-1140
 
 [Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)

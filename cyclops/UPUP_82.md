@@ -1,4 +1,4 @@
-[Egoist 321-322](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/321/mode/1up) Gabler 12.1548-1587
+[Egoist 320-321](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/320/mode/2up) Gabler 12.1548-1587
 
 —I know where he’s gone, says Lenehan, cracking his fingers.
 

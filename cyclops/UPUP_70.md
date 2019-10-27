@@ -1,11 +1,6 @@
-Titles:
-Cruetly to Animals
-Green in the White of My Eye
+[Egoist 307-308](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/307/mode/1up) * Gabler 12.1060-1093
 
 [Cylops-wide article, blogs, markups](https://github.com/upup1904/ulysses_splits/blob/master/cyclops/episode_bookmarks.md)
-
-
-[Egoist 307-308](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/307/mode/1up) * Gabler 12.1060-1093
 
 Begob I saw there was trouble coming. And Bloom explaining he meant on account of it being cruel for the wife having to go round after the old stuttering fool. Cruelty to animals so it is to let that bloody povertystricken Breen out on grass with his beard out tripping him, bringing down the rain. And she with her nose cockahoop after she married him because a cousin of his old fellow’s was pewopener to the pope. Picture of him on the wall with his Smashall Sweeney’s moustaches, the signior Brini from Summerhill, the eyetallyano, papal Zouave to the Holy Father, has left the quay and gone to Moss street. And who was he, tell us? A nobody, two pair back and passages, at seven shillings a week, and he covered with all kinds of breastplates bidding defiance to the world.
 
