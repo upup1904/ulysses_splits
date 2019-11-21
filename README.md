@@ -6,7 +6,8 @@ Ulysses by Joyce split up into chunks
 
 To facilitate any "serialization" project of Ulysses.  It comes out of
 the UPUP series on https://reddit.com/r/jamesjoyce, where a little bit of the
-novel is discussed on a periodic schedule.
+novel is discussed on a periodic schedule.  See [about UPUP](about.md) for
+more detail.
 
 ## Contributing
 
@@ -23,10 +24,10 @@ seem fusty/quaint).
 
 ## Why github?
 
-"Lean unlovely english".  It's a compromise but in 2019 a pretty
-obvious choice.  Github provides merge/shared admin/transparency
-unrivaled right now.  It's uncomfortably technical for a lot of us,
-but anyone who wants to contribute should be able to find a way.
+It's a compromise but in 2019 a pretty obvious choice.  Github
+provides merge/shared admin/transparency unrivaled right now.  It's
+uncomfortably technical ("Lean unlovely english") for a lot of us, but
+anyone who wants to contribute should be able to find a way.
 
 ## Sources
 
