@@ -1,46 +1,41 @@
 # About
 
-## motto
-
-Get it out in bits.  (Gabler 11.586)
-
 ## About UPUP
 
-UPUP is a project to accumultate resources to facilitate discussion of
-Ulysses in small chunks.  The work is broken into "UPUP"s, each
-corresponding roughly to 1 page in print editions.  The first
-368 parts (thru the middle of Wandering Rocks) use the divisions of
-Delaney's podcasts.
+There are two UPUPs: UPUP on reddit and UPUP on Github.  **UPUP on
+reddit** is a series of posts, approximately every four days, each
+having approximately one page of Ulysses.  **UPUP on Github** is an
+open ended project to collect freely reusable material related to
+Ulysses.  It is organized around passages from the the novel , each
+roughly a page as printed in the 1922 edition (more in Circe, less in
+Penelope).  The first 368 parts (thru the middle of Wandering Rocks)
+use the divisions of Frank Delaney's "re Joye" podcasts.
 
-The UPUP project is open source, hosted on Github, with CC0 licensing,
-so that anyone can use the materials for any purpose, and so that the
-project can be easily continued when the original creators go to their
-eternal reward, are incarcerated, or for any other reason stop
-maintaining the project.
-
-As of 2019, the project is still embryonic an suggestions on how it
-should develop are welcome.  Some thoughts of mine (/u/Earthsophagus
-on reddit):
+As of December 2019, the project is still embryonic an suggestions on how
+it should develop are welcome.  Some thoughts of mine
+(/u/Earthsophagus on reddit):
 
 ### Current features
 
 episodes split into chunks, with Gabler line numbers and Egoist page
-numbers.  Currently Scylla-Cyclops are complete.
+numbers.  Currently Scylla-NaussicaaCyclops are complete.
 
 Links to episode-wide blog posts, modernism lab, Digital archive.
 
 ### Envisioned features
 
++ per-chunk links to scholarly resoures (e.g.  from Jstor, Academia,
+MUSE) and bibliographical citatations to printed matter.
+
++ links to relevant podcasts
+
 + unobtrusive mark for Gabler line ends
 
 + page numbers from other editions, Viking, Alma
 
-+ per-UPUP links to scholarly resoures (e.g.  from Jstor) and
-bibliographical citatations to printed matter.
-
 + vocabulary and etymology notes per page
 
-+ links to podcasts
++ freely reusable (CC0) commentary
 
 ## How to Contribute
 
@@ -102,4 +97,8 @@ Not Joyce specific but useful:  https://greensdictofslang.com/
 
 
 
+
+## motto
+
+Get it out in bits.  (Gabler 11.586)
 
