@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 And the learning knight let pour for childe Leopold a draught and halp
 thereto the while all they that were there drank every each. And childe
 Leopold did up his beaver for to pleasure him and took apertly somewhat

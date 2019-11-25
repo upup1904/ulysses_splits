@@ -1,3 +1,7 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
 The man that was come in to the house then spoke to the nursingwoman and
 he asked her how it fared with the woman that lay there in childbed. The
 nursingwoman answered him and said that that woman was in throes now

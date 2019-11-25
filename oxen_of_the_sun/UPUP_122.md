@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler 14.
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 It is not why therefore we shall wonder if, as the best historians
 relate, among the Celts, who nothing that was not in its nature
 admirable admired, the art of medicine shall have been highly honoured.

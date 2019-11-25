@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 For they were right witty scholars. And he heard their aresouns each gen
 other as touching birth and righteousness, young Madden maintaining that
 put such case it were hard the wife to die (for so it had fallen out a

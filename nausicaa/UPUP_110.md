@@ -1,4 +1,4 @@
-[Egoist 353-354](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/353/mode/1up) * Gabler 14.850-893
+[Egoist 353-354](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/353/mode/1up) * Gabler 13.850-893
 
 [Nausicaa episode links](https://github.com/upup1904/ulysses_splits/blob/master/nausicaa/episode_links_nausicaa.md)
 

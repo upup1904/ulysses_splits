@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 Some man that wayfaring was stood by housedoor at night’s oncoming. Of
 Israel’s folk was that man that on earth wandering far had fared. Stark
 ruth of man his errand that him lone led till that house.

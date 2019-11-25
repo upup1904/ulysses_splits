@@ -1,4 +1,11 @@
-[mid paragraph] Young Stephen said
+UPUP_131
+
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler 14.357-400
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
+(mid para) Young Stephen said
 indeed to his best remembrance they had but the one doxy between them
 and she of the stews to make shift with in delights amorous for life ran
 very high in those days and the custom of the country approved with it.

@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler 14.1-
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 Deshil Holles Eamus. Deshil Holles Eamus. Deshil Holles Eamus.
 
 Send us bright one, light one, Horhorn, quickening and wombfruit. Send

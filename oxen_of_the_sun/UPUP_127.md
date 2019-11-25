@@ -1,3 +1,7 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
  Then spake young Stephen orgulous of mother Church
 that would cast him out of her bosom, of law of canons, of Lilith,
 patron of abortions, of bigness wrought by wind of seeds of brightness

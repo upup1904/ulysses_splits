@@ -1,4 +1,4 @@
-[Egoist 358-359](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/358/mode/2up) * 14.1044-1080
+[Egoist 358-359](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/358/mode/2up) * 13.1044-1080
 
 [Nausicaa episode links](https://github.com/upup1904/ulysses_splits/blob/master/nausicaa/episode_links_nausicaa.md)
 

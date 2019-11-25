@@ -68,36 +68,6 @@ limitation to how much anyone can post, and that anyone can read it
 whether they have an account or not, and it's "discoverable."
 
 
-## Web resources
-
-### Open Library
-
-### jstor
-
-Jstor allows "civilians" access to thousands of academic articles, 6 per month.
-
-### Egoist Copy
-
-https://archive.org/stream/ulysses00joyc_1#page/n23/mode/2up -- Page numbers commonly cited when not using Gabler line numbers
-
-### Gutenberg Copy
-
-Plain text/epub/html/kindle   http://www.gutenberg.org/ebooks/4300
-
-### Skeat
-
-The etymologist Stephen Dedalus read.  1888 version (likely the
-version Joyce would have had access to as a young man)
-
-https://archive.org/details/etymologicaldict00skeauoft/page/n6
-
-### Green's Slang
-
-Not Joyce specific but useful:  https://greensdictofslang.com/
-
-
-
-
 ## motto
 
 Get it out in bits.  (Gabler 11.586)

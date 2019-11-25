@@ -1,3 +1,8 @@
+[Egoist xxx](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/xxx/mode/1up) * Gabler
+
+[Oxen of the Sun episode links](https://github.com/upup1904/ulysses_splits/blob/master/oxen_of_the_sun/episode_links_oxen_of_the_sun.md)
+
+
 Hereupon Punch Costello dinged with his fist upon the board and would
 sing a bawdy catch *Staboo Stabella* about a wench that was put in pod
 of a jolly swashbuckler in Almany which he did straightways now attack:
