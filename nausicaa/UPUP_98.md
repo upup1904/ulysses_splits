@@ -1,3 +1,4 @@
+
 [Egoist 341-342](https://archive.org/stream/ulysses00joyc_1?ref=ol#page/341/mode/1up)  13.404-441
 
 [Nausicaa episode links](https://github.com/upup1904/ulysses_splits/blob/master/nausicaa/episode_links_nausicaa.md)
@@ -19,7 +20,7 @@ a foreigner, the image of the photo she had of Martin Harvey, the
 matinee idol, only for the moustache which she preferred because she
 wasn't stagestruck like Winny Rippingham that wanted they two to always
 dress the same on account of a play but she could not see whether he had
-an aquiline nose or a slightly *retroussÃ©* from where he was sitting. He
+an aquiline nose or a slightly *retroussé* from where he was sitting. He
 was in deep mourning, she could see that, and the story of a haunting
 sorrow was written on his face. She would have given worlds to know what
 it was. He was looking up so intently, so still, and he saw her kick the
