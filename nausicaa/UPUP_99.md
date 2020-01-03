@@ -2,6 +2,12 @@
 
 [Nausicaa episode links](https://github.com/upup1904/ulysses_splits/blob/master/nausicaa/episode_links_nausicaa.md)
 
+Tuesdays: https://tuesdaysulysses.blogspot.com/2015/09/
+
+Page-by-page: http://ulyssespages.blogspot.com/2014/12/p343.html
+
+-----------------
+
 Refuge of sinners. Comfortress of the afflicted. *Ora pro nobis*. Well
 has it been said that whosoever prays to her with faith and constancy
 can never be lost or cast away: and fitly is she too a haven of refuge
