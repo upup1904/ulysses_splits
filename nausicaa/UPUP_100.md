@@ -2,6 +2,11 @@
 
 [Nausicaa episode links](https://github.com/upup1904/ulysses_splits/blob/master/nausicaa/episode_links_nausicaa.md)
 
+
+[wikibooks annotations p 344](https://en.wikibooks.org/wiki/Annotations_to_James_Joyce%27s_Ulysses/Nausicaa/344)
+
+
+
 Queen of angels, queen of patriarchs, queen of prophets, of all saints,
 they prayed, queen of the most holy rosary and then Father Conroy handed
 the thurible to Canon O'Hanlon and he put in the incense and censed the

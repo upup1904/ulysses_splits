@@ -16,7 +16,7 @@ Pity they can't see themselves. A dream of wellfilled hose. Where was
 that? Ah, yes. Mutoscope pictures in Capel street: for men only. Peeping
 Tom. Willy's hat and what the girls did with it. Do they snapshot those
 girls or is it all a fake? *Lingerie* does it. Felt for the curves
-inside her *dÃ©shabillÃ©.* Excites them also when they're. I'm all clean
+inside her *déshabillé.* Excites them also when they're. I'm all clean
 come and dirty me. And they like dressing one another for the sacrifice.
 Milly delighted with Molly's new blouse. At first. Put them all on to
 take them all off. Molly. Why I bought her the violet garters. Us too:
